@@ -21,7 +21,7 @@ from handlers.admin_private import admin_router
 
 # ALLOWED_UPDATES = ['message', 'edited_message', 'callback_query']
 
-bot = Bot(token=os.getenv('TOKEN'))
+bot = Bot(token=os.getenv('BOT_TOKEN'))
 bot.my_admins_list = []
 
 dp = Dispatcher()
