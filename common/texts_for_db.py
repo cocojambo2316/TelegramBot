@@ -1,19 +1,19 @@
 from aiogram.utils.formatting import Bold, as_list, as_marked_section
 
 
-categories = ['Przedmioty obowiązkowe']
+categories = ['Placeholder for category']
 
 description_for_info_pages = {
-    "main": "Cześć, tu możesz wybrać przedmioty które Cie interesują",
-    "about": "📚 Pomagam studentom SGH!"
-             "\n🧭 Znajdziesz tu wszystkie przedmioty, prowadzących i materiały w jednym miejscu."
-             "\n🎓 Zero chaosu — szybki dostęp do notatek, linków i informacji."
-             "\n✨ Studiuj mądrzej, nie ciężej!",
-    "payment": "Napisz tu żeby zgłosić problem/dodać materiały"
+    "main": "Placeholder for main description",
+    "about": "📚 Placeholder about text!"
+             "\n🧭 Placeholder navigation line."
+             "\n🎓 Placeholder info line."
+             "\n✨ Placeholder motto line!",
+    "payment": "Placeholder payment text"
                "\n...",
-    "shipping": "Tu trochę dodatkowych materiałów!"
-                "\nNiezbędnik wyboru wykładowców:"
-                "\nhttps://www.sknstatystyki.com/niezbędnik-wyboru-wykładowców-sgh-1"
-                "\nhttps://www.facebook.com/NWWSGH/?locale=ru_RU",
-    "catalog": "Wybierz opcję"
+    "shipping": "Placeholder shipping text!"
+                "\nPlaceholder link 1:"
+                "\nhttps://example.com/link-1"
+                "\nhttps://example.com/link-2",
+    "catalog": "Placeholder catalog text"
 }
