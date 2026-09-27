@@ -34,8 +34,8 @@ An asynchronous backend service and content ingestion engine designed for decoup
 ## Local Setup
 
 1. Clone the repository:
-git clone [https://github.com/cocojambo2316/your-repo-name.git](https://www.google.com/search?q=https://github.com/cocojambo2316/your-repo-name.git&utm_source=gemini)
-cd your-repo-name
+git clone https://github.com/cocojambo2316/TelegramBot.git
+cd TelegramBot
 2. Create and activate a virtual environment:
 python -m venv .venv
 ..venv\Scripts\Activate.ps1
