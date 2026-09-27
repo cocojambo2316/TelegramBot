@@ -45,6 +45,6 @@ pip install -r requirements.txt
 Create a .env file in the root directory:
 BOT_TOKEN=your_bot_token
 DATABASE_URL=postgresql://user:password@localhost:5432/dbname
-GOOGLE_CREDENTIALS_PATH=credentials.json
-5. Run the service:
-python main.py
+ADMINS=your_tg_id
+6. Run the service:
+python New.py
